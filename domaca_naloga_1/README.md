@@ -29,5 +29,3 @@
 
 ###[Uèni list - Geometrijska zaporedja.pdf](https://www.sc-nm.si/sss/file/open/675_f059fbb98d3b/U%C4%8Dni%20list%20-%20Geometrijska%20zaporedja.pdf)
 - 3
-
-###[Uèni list - ]
